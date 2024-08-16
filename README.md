@@ -8,13 +8,13 @@
 	<img height=180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hagsir&layout=compact&langs_count=16&theme=dark"/> 
 </div>
  
-
+<div align="center">
 [<img height=50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />]]
 [<img height=50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]
 [<img height=50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
 [<img height=50em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />]
 [<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/CW66BEAA.pdf)
-
+</div>
 		
 ## 
 
