@@ -29,7 +29,7 @@
 
 #### Certificações:
 [<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/CW66BEAA.pdf)
-
+[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/DSQKKIDL.pdf)
 		
 ## 
 
