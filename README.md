@@ -12,10 +12,11 @@
 
 
 #### Linguagens de Programação:
-![C](https://img.shields.io/badge/C-0b5e9f?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=blue) 
+![C](https://img.shields.io/badge/C-0b5e9f?style=for-the-badge&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6c287e?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ad181e?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
