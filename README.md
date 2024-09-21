@@ -31,7 +31,7 @@
 #### Certificações:
 [<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/CW66BEAA.pdf)
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/DSQKKIDL.pdf)
-		
+[<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="50"></a>](https://www.credly.com/badges/72d91431-3af5-488b-a273-799057892202/public_url)
 ## 
 
 <div align="center">
