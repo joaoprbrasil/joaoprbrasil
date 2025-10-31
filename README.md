@@ -1,6 +1,5 @@
 # Olá, meu nome é João Pedro.
 [![Instagram](	https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hagsir_)
-[![Steam](	https://img.shields.io/badge/Steam-151515?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hagsir/)
 
 <div align="center">
     <a href="https://git.io/streak-stats">
