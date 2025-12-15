@@ -1,14 +1,4 @@
 # Olá, meu nome é João Pedro.
-[![Instagram](	https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hagsir_)
-
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=joaoprbrasil&theme=dark&hide_border=false&border_radius=8&date_format=j%2Fn%5B%2FY%5D&background=000000&border=ffffff&stroke=3C3C3C&ring=FFFFFF&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoprbrasil&layout=compact&theme=vision-friendly-dark&title_color=FFFFFF" alt="Github Lang Status"/>
-    </a>
-</div>
 
 #### Linguagens de Programação:
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=blue) 
