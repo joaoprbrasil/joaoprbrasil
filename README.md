@@ -1,26 +1,32 @@
 # Olá, meu nome é João Pedro.
 
-#### Linguagens de Programação:
-![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=blue) 
-![C](https://img.shields.io/badge/C-0b5e9f?style=for-the-badge&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-6c287e?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ad181e?style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+<div align="center"> 
+  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Vi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Vi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Vi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Vi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Vi-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+  <img align="center" alt="Vi-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Vi-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Vi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Vi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Vi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Vi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+  <img align="center" alt="Vi-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Vi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Vi-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+  <img align="center" alt="Vi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Vi-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Vi-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Vi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Vi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
 
-#### Sistemas Operacionais:
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/ArchLinux-000000?style=for-the-badge&logo=archlinux&logoColor=54fcfc)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
-#### Certificações:
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/CW66BEAA.pdf)
-[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/DSQKKIDL.pdf)
-[<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="50"></a>](https://www.credly.com/badges/72d91431-3af5-488b-a273-799057892202/public_url)
 ## 
 
 <div align="center">
