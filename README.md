@@ -1,4 +1,3 @@
-# Olá, meu nome é João Pedro.
 
 <div align="center"> 
   <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
