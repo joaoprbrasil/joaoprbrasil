@@ -1,4 +1,7 @@
 
+<div align="center">
+ <img src="https://github.com/hagsir/hagsir/assets/83050781/de088324-0ef7-4351-af80-77c92ffe7225"/>
+</div>
 <div align="center"> 
   <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Vi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -26,9 +29,3 @@
   <img align="center" alt="Vi-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </div>
 
-
-## 
-
-<div align="center">
- <img src="https://github.com/hagsir/hagsir/assets/83050781/de088324-0ef7-4351-af80-77c92ffe7225"/>
-</div>
