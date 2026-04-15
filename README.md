@@ -4,6 +4,6 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,java,js,ts,nestjs,nodejs,html,css,spring,react,postgres,mysql,mongodb,docker,aws,firebase,git,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,py,js,ts,nestjs,nodejs,postgres,docker,aws,firebase,linux" />
 </div>
 
